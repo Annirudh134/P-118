@@ -1,0 +1,16 @@
+body
+{
+    background-color: #fdb139;
+}
+
+h1
+{
+     
+   color: rgb(38, 0, 255);
+   background-color: cornsilk;
+}
+
+#show_sketch
+{
+    float: right;
+}
